@@ -1,0 +1,14 @@
+{
+  "name": "inout_fe_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "mbti": "node src/mbti.js",
+    "order": "node src/order.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
